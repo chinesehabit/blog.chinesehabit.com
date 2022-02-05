@@ -1,0 +1,24 @@
+baseURL = 'https://blog.chinesehabit.com/'
+languageCode = 'en-us'
+title = 'Chinese Habit'
+theme = "beautifulhugo"
+publishDir = "docs"
+enableRobotsTXT = true
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Documenting my daily chinese study habit."
+  mainSections = ["post","posts"]
+  logo = "img/avatar.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  since = "2022"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true

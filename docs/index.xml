@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese Habit</title>
+    <link>https://blog.chinesehabit.com/</link>
+    <description>Recent content on Chinese Habit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.chinesehabit.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Favorite Resources for Learning Chinese</title>
+      <link>https://blog.chinesehabit.com/post/2015-01-04-first-post/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.chinesehabit.com/post/2015-01-04-first-post/</guid>
+      <description>Here&amp;rsquo;s some links I found useful while learning Chinese.
+I know there&amp;rsquo;s a lot of links here, so first I&amp;rsquo;ll start with the two resources that I use on a daily basis:
+  pleco - Absolutely essential dictionary for anyone studying Chinese.
+  italki - Great for finding a chinese teacher (and at a decent price).
+  study materials textbooks, including hsk
+  https://mandrinacademy.blogspot.com/
+  http://jyangkul.</description>
+    </item>
+    
+  </channel>
+</rss>
