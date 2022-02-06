@@ -3,19 +3,21 @@ title: My Favorite Resources for Learning Chinese
 date: 2022-02-04
 ---
 
-Here's some links I found useful while learning Chinese.
+Here's a bunch of links I found useful while learning Chinese!
 
-I know there's a lot of links here, so first I'll start with the two resources that I use on a daily basis:
+I know there's a lot here, so I'll start with my **TOP 3**
 
 1. [pleco](https://www.pleco.com/) - Absolutely essential **dictionary** for anyone studying Chinese.
 
 2. [italki](https://www.italki.com/) - Great for **finding a chinese teacher** (and at a decent price).
 
+3. [hsk](https://mandrinacademy.blogspot.com/) - You can choose any **textbook** series you like! I want to take the standard test some day so I use HSK.
+
+There are so many ways to study a language, but with these 3 tools you really can't go wrong.
+
 ## study materials
 
 **textbooks, including hsk**
-
-- https://mandrinacademy.blogspot.com/
 
 - http://jyangkul.net/
 
