@@ -7,10 +7,11 @@ enableRobotsTXT = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Documenting my daily chinese study habit."
+  subtitle = "每日学中文"
   mainSections = ["post","posts"]
   logo = "img/avatar.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
+  rootlink = "https://chinesehabit.com"
   dateFormat = "January 2, 2006"
   since = "2022"
   commit = false
