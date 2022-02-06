@@ -4,6 +4,7 @@ title = 'Chinese Habit'
 theme = "beautifulhugo"
 publishDir = "docs"
 enableRobotsTXT = true
+googleAnalytics = "G-RF2PV65GRP"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
